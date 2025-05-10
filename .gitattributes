@@ -1,0 +1,38 @@
+# Normalize text files to LF line endings in the repo
+* text=auto
+
+# Explicitly set line endings for common file types
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.xml text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.java text eol=lf
+
+# Windows-specific scripts (use CRLF if needed)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files (never auto-convert line endings)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.exe binary
+*.dll binary
+
+# Jupyter Notebooks
+*.ipynb text eol=lf
