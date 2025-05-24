@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748105494773
+current_stage: None
+description: ''
+last_updated_timestamp: 1748105494773
+name: Best RandomForest Model
+run_id: c12cecea0c52483e87946eac39e43e98
+run_link: ''
+source: file:///media/toni-birat/New%20Volume/ML_Flow_Complete/ML_Project/mlruns/0/c12cecea0c52483e87946eac39e43e98/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///media/toni-birat/New%20Volume/ML_Flow_Complete/ML_Project/mlruns/0/c12cecea0c52483e87946eac39e43e98/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/380482043865256358/d425246ecdb04ecbbf4c154a7cec85e1/artifacts
+deleted_time: 1748091981335
+end_time: 1746878145716
+entry_point_name: ''
+experiment_id: '380482043865256358'
+lifecycle_stage: deleted
+run_id: d425246ecdb04ecbbf4c154a7cec85e1
+run_name: rebellious-hound-189
+run_uuid: d425246ecdb04ecbbf4c154a7cec85e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878144573
+status: 3
+tags: []
+user_id: toni-birat

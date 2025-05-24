@@ -1,0 +1,15 @@
+artifact_uri: file:///media/toni-birat/New%20Volume/ML_Flow_Complete/ML_Project/mlruns/0/c12cecea0c52483e87946eac39e43e98/artifacts
+end_time: 1748105494789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12cecea0c52483e87946eac39e43e98
+run_name: thundering-bass-626
+run_uuid: c12cecea0c52483e87946eac39e43e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748105400032
+status: 3
+tags: []
+user_id: toni-birat

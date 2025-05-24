@@ -1,0 +1,16 @@
+artifact_uri: file:///media/toni-birat/New%20Volume/ML_Flow_Complete/ML_Project/mlruns/0/2a6a24887f0b4138b66139e92c7a798b/artifacts
+deleted_time: 1748105570215
+end_time: 1748105361014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2a6a24887f0b4138b66139e92c7a798b
+run_name: resilient-crane-360
+run_uuid: 2a6a24887f0b4138b66139e92c7a798b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748105270296
+status: 4
+tags: []
+user_id: toni-birat
