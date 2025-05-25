@@ -1,5 +1,5 @@
 outs:
-- md5: c2e80336e03c8e90b43d0dd436fff790
-  size: 20
+- md5: 379396b75d02809d906fb3219a82b37e
+  size: 29
   hash: md5
   path: Day1.txt
