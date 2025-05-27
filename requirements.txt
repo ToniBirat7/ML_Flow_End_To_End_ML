@@ -6,3 +6,4 @@ keras
 tensorflow
 hyperopt
 dvc_s3
+apache-airflow
