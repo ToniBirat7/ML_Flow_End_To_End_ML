@@ -4,3 +4,6 @@
 [submodule "First_Github_Action_Project"]
 	path = First_Github_Action_Project
 	url = git@github.com:ToniBirat7/Github_Action_Project.git
+[submodule "Second_Github_Action_CI_CD_Dockerhub"]
+	path = Second_Github_Action_CI_CD_Dockerhub
+	url = git@github.com:ToniBirat7/End_To_End_CI_CD_with_DockerHub.git
