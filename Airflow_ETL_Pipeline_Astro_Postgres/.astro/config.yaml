@@ -1,2 +1,3 @@
 project:
-    name: airflow-etl-pipeline-astro-postgres
+  name: airflow-etl-pipeline-astro-postgres
+  runtime_version: 8.3.1
