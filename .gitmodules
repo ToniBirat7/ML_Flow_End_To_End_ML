@@ -1,3 +1,6 @@
 [submodule "First_End_To_End_ML_Project"]
 	path = First_End_To_End_ML_Project
 	url = git@github.com:ToniBirat7/First_End_To_End_ML_Project.git
+[submodule "First_Github_Action_Project"]
+	path = First_Github_Action_Project
+	url = git@github.com:ToniBirat7/Github_Action_Project.git
