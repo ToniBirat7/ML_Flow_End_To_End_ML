@@ -55,7 +55,7 @@ with DAG(
         endpoint="planetary/apod",  # Endpoint for the Astronomy Picture of the Day
         method="GET",
         data={
-            "api_key": "{{ conn.nasa_api.extra_dejson.api_key }}"
+            "api_key": "{{ conn.apod_api.extra_dejson.api_key }}"
         },  # API key from the connection
         response_filter=lambda response: response.json(),  # Filter to get JSON response
     )
@@ -77,7 +77,7 @@ with DAG(
     def load_data_to_postgres(apo_data):
         # Initialize PostgresHook
 
-        pg_hook = PostgresHook(postgres_conn_id="my_postgres_connection")
+        pg_hook = PostgresHook(postgres_conn_id="postgres_default")
 
         # Define SQL Query
         insert_sql = """
