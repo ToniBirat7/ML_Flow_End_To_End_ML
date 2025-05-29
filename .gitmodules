@@ -7,3 +7,6 @@
 [submodule "Second_Github_Action_CI_CD_Dockerhub"]
 	path = Second_Github_Action_CI_CD_Dockerhub
 	url = git@github.com:ToniBirat7/End_To_End_CI_CD_with_DockerHub.git
+[submodule "First_Complete_End_To_End_ML_Project"]
+	path = First_Complete_End_To_End_ML_Project
+	url = git@github.com:ToniBirat7/First_Complete_End_to_End_ML_Project.git
