@@ -1,5 +1,3 @@
-import json
-from h11 import Data
 from httpx import post
 from datetime import datetime, timedelta
 from airflow import DAG
